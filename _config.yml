@@ -6,21 +6,19 @@
 # Los valores con dos puntos, comas o comillas van entre comillas dobles.
 
 # Título de la colección: aparece en la cabecera de la portada, en el pie y en la pestaña del navegador
-title: Portadas y encabezamientos de impresos hispánicos
-
+title: Diarios y cuadernos de viaje del siglo XIX
 # Subtítulo breve bajo el título de la portada; puede dejarse vacío
 tagline: Colección de ejemplo para el Máster en Humanidades y Patrimonio Digitales (UAB)
 
 # Descripción de una o dos frases: aparece en la portada y en el pie, y la leen los buscadores
-description: "Portadas y títulos de cabecera de ediciones antiguas en castellano, reunidos a partir de bibliotecas digitales enlazadas en Europeana, con sus metadatos y sus transcripciones."
-
+description: "Repositorio digital dedicado a la recuperación y difusión de diarios, libretas de campo y cuadernos de viaje del siglo XIX en dominio público. Explora itinerarios históricos, relatos de viajeros y fondos documentales digitalizados para la investigación y la memoria patrimonial."
 # Autoría: nombres de quienes hacen la colección
-author: David Merino Recalde
+author: Gabriel Rodríguez i Mariona Comas
 
 # Enlace a la hoja de metadatos publicada como CSV
 # (en Google Sheets: Archivo > Compartir > Publicar en la web > Hoja completa, formato CSV).
 # Debe acabar en output=csv. Hasta que se cambie, la web muestra la colección de ejemplo.
-metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQynGPTD1wk04y2qhT_YQO_vh28IMX-8VwFIDxUqUAhZBc4R2ul73_bgT7Tio78_0rkniMF95WvPWtq/pub?output=csv
+metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vTx5aVVydjwdEWUq3OpRwettZD3Xktnav9_mtDiesvsLQI4iv5cXp1hS6eQN7dgFYJ8ITbHzRq3wrj8/pub?output=csv
 
 # Imagen de la cabecera de la portada: el objectid de uno de los objetos de la colección
 featured-image: pellicer-lecciones-1630

@@ -13,7 +13,7 @@ tagline: Colección de ejemplo para el Máster en Humanidades y Patrimonio Digit
 # Descripción de una o dos frases: aparece en la portada y en el pie, y la leen los buscadores
 description: "Repositorio digital dedicado a la recuperación y difusión de diarios, libretas de campo y cuadernos de viaje del siglo XIX en dominio público. Explora itinerarios históricos, relatos de viajeros y fondos documentales digitalizados para la investigación y la memoria patrimonial."
 # Autoría: nombres de quienes hacen la colección
-author: Gabriel Rodríguez i Mariona Comas
+author: Gabriel Rodríguez, Mariona Comas
 
 # Enlace a la hoja de metadatos publicada como CSV
 # (en Google Sheets: Archivo > Compartir > Publicar en la web > Hoja completa, formato CSV).
@@ -41,7 +41,7 @@ color-acento: "#A8A8A8"
 color-fondo: "#"
 
 # Enlace al repositorio de la colección en GitHub
-source-code: https://github.com/dxvidmr/cb-sheets-masterhd-uab
+source-code: https://github.com/marionacomasb-a11y/Seminari
 
 
 ##########
